@@ -1,5 +1,16 @@
 # Investigate-and-analyze-IMBD-dataset
+Learning Objectives
+
+- Know all the steps involved in a typical data analysis process
+- Be comfortable posing questions that can be answered with a given dataset and then answering those questions
+- Know how to investigate problems in a dataset and wrangle the data into a format you can use
+- Have experience communicating the results of your analysis
+- Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
+- Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+- Know how to use Matplotlib to produce plots showing your findings
+
 Investigated important features from IMBD movie dataset and performed inferential statistics to relate the findings using python libraries like Numpy, Pandas and used Matplotlib to produce plots showing my findings.
+
 
 The data contains information that are provided from The Movie Database (TMDb). It collects 5000+ movies basic move information and movie matrices, including user ratings, popularity and revenue data. These metrics can be seen as how successful these movies are. The movie basic information contained like cast, director, keywords, runtime, genres, etc. 
 

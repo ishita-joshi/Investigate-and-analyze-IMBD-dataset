@@ -20,6 +20,14 @@ The primary goal of the project is to go through the general data analysis proce
 3. Exploratory Data Analysis
 4. Drawing Conclusion
 
+Requirements
+This project requires Python 3 and the following Python libraries installed:
+
+- Python 3.6.5
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn 
 
 Data cleaning: In the data cleaning process I found that many values were null values in various columns. Hence I droppped null values in cast, genres and director.
 The major problem with the data set was of 'zero' values in the dataset  in the revenue and budget column. And more than 50% of the films had 'zero' value in their columns. Which is realyy impossible in reality as there can be no films that had zero budget and revenue too zero. To my surprise that it was in large numbers. Hence I decided to to retain these rows and replace zero values with null values, to keep the integrity of the data.

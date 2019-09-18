@@ -20,7 +20,7 @@ The primary goal of the project is to go through the general data analysis proce
 3. Exploratory Data Analysis
 4. Drawing Conclusion
 
-Requirements
+Requirements:
 This project requires Python 3 and the following Python libraries installed:
 
 - Python 3.6.5
